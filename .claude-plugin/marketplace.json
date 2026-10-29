@@ -1,0 +1,6 @@
+{
+  "name": "gp-agent-usage-info",
+  "description": "A Claude Code dashboard mod: task progress, animated Clawd crabs per agent, usage limits and cost.",
+  "owner": { "name": "PGuru" },
+  "plugins": [{ "name": "gp-agent-usage-info", "source": "./" }]
+}

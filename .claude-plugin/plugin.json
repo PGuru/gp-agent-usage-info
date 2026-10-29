@@ -1,0 +1,8 @@
+{
+  "name": "gp-agent-usage-info",
+  "version": "0.1.0",
+  "description": "Dashboard above the prompt: task progress, animated Clawd crabs for each agent, context and 5h/7d usage bars, and task and session cost. Type gp-agent-usage-info in any message to turn it on.",
+  "author": { "name": "PGuru" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
